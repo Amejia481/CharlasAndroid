@@ -1,3 +1,5 @@
+Repositorio movido a  [https://github.com/droidLatino/charlasAndroid/](https://github.com/droidLatino/charlasAndroid/)
+
 Charlas Android
 ===========
 
