@@ -8,7 +8,7 @@ Para agregar una charla.
 
 Envía un pull-request en el cual añades un archivo al folder `_conferences/`
 cada nuevo archivo representa una nueva charla. El archivo debe estar nombrado con la siguiente nomenclatura
- nombre de la charla, el año, y con la extensión `.md`  (por ejemplo, `mi-charla-buena-2017.md`).
+ nombre de la charla, el año, y con la extensión `.md`  (por ejemplo, `mi-charla-buena-onda-2017.md`).
 
 El contenido del archivo debería seguir la siguiente plantilla:
 
