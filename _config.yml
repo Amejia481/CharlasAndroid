@@ -1,5 +1,0 @@
-timezone: "UTC"
-markdown: kramdown
-
-collections:
-- conferences
