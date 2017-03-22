@@ -1,5 +1,5 @@
 ---
-name: "DroidLatino-talks-1"
+name: "DroidLatino Talks #1"
 website: https://www.facebook.com/events/345479625849364/
 location: Life Streaming
 
